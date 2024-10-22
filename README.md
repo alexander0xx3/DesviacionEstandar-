@@ -8,8 +8,8 @@ Este proyecto implementa una aplicación para calcular la **media (promedio)** y
 ## Integrantes
 
 |------------|--------------------|
-|Alumono|NRC|
-|*ROJAS LARA JACK ALEXANDER**| 15970|
+|------Alumono-----|-------NRC---|
+|--ROJAS LARA JACK ALEXANDER--| 15970|
 
 ## Requisitos
 
