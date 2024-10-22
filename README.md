@@ -7,8 +7,9 @@ Este proyecto implementa una aplicación para calcular la **media (promedio)** y
 
 ## Integrantes
 
-- **PAYTAN HUAMAN JHEYSON PAUL**
-- **ROJAS LARA JACK ALEXANDER**
+|------------|--------------------|
+|Alumono|NRC|
+|*ROJAS LARA JACK ALEXANDER**| 15970|
 
 ## Requisitos
 
