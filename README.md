@@ -7,9 +7,11 @@ Este proyecto implementa una aplicación para calcular la **media (promedio)** y
 
 ## Integrantes
 
-|------------|--------------------|
-|------Alumono-----|-------NRC---|
-|--ROJAS LARA JACK ALEXANDER--| 15970|
+|       | Nombre                       | NRC   |
+|----------|------------------------------|-------|
+| Estudiante |Rojas Lara Jack Alexander  | 15970 |
+| Docente   | Daniel Gamarra Moreno        |       |
+
 
 ## Requisitos
 
